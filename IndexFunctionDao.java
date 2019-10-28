@@ -9,7 +9,7 @@
  * 履歴：
  * [NO]  [日付]		[Ver]（注１）　[更新者]	　　[内容]
  * 1	2019/10/10				胡庚		初版
- * Copyright (C) 2019, MBP All Rights Reserved.
+ * 
  */
 package dao;
 
